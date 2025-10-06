@@ -1,0 +1,26 @@
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\Đồ án VB\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\Đồ án VB\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\Đồ án VB\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\Đồ án VB\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\Đồ án VB\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\Đồ án VB\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\Đồ án VB\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\Đồ án VB\WindowsApplication7\obj\Debug\doanVB.vbprojResolveAssemblyReference.cache
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\Đồ án VB\WindowsApplication7\obj\Debug\WindowsApplication7.QLSV.resources
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\Đồ án VB\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\biend\OneDrive\Tài liệu\Visual Studio 2015\Projects\Đồ án VB\WindowsApplication7\obj\Debug\doanVB.vbproj.GenerateResource.Cache
+C:\Users\biend\OneDrive\Máy tính\Đồ án VB\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\biend\OneDrive\Máy tính\Đồ án VB\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\biend\OneDrive\Máy tính\Đồ án VB\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\biend\OneDrive\Máy tính\Đồ án VB\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\biend\OneDrive\Máy tính\Đồ án VB\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\biend\OneDrive\Máy tính\Đồ án VB\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\biend\OneDrive\Máy tính\Đồ án VB\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\biend\OneDrive\Máy tính\Đồ án VB\WindowsApplication7\obj\Debug\doanVB.vbprojResolveAssemblyReference.cache
+C:\Users\biend\OneDrive\Máy tính\Đồ án VB\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\biend\OneDrive\Máy tính\Đồ án VB\WindowsApplication7\obj\Debug\doanVB.vbproj.GenerateResource.Cache
+C:\Users\biend\OneDrive\Máy tính\Đồ án VB\WindowsApplication7\obj\Debug\WindowsApplication7.frmSinhVien.resources
